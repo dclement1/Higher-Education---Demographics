@@ -47,4 +47,8 @@
 - *Below is a map showing census blocks colored by the percentage of households living under the poverty line for the last 12 months.*
 ![Poverty_map_TB](Poverty_map_Tampa_Bay.jpg)
 
+- *Below is a table depicting the highest degrees offered by institutions in Hillsborough County.*
+![Highest_deg](Hillsborough_Highest_Deg.PNG)
+
+
 
