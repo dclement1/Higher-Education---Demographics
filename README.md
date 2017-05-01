@@ -50,8 +50,17 @@
 - *Below is a table depicting the highest degrees offered by institutions in Hillsborough County.*
 ![Highest_deg](Hillsborough_Highest_Deg.PNG)
 
-- *Below is a table depicting the highest degrees offered by institutions in Hillsborough County.*
+- *Below is a table depicting the graduation rates for various institutions in Hillsborough County, catagorized by race.*
 ![Grad_rate_races](Grad_Rate_Races.PNG)
+
+- *Below is a table depicting the graduation rates in Hillsborough County, catagorized by gender.*
+![Grad_rate_gender](Grad_rate_gender.PNG)
+
+- *Below is a table depicting the average graduation rate by county.*
+![Grad_rate_county](avg_grad_county.PN)
+
+
+
 
 
 
