@@ -51,7 +51,7 @@
 ![Highest_deg](Hillsborough_Highest_Deg.PNG)
 
 - *Below is a table depicting the highest degrees offered by institutions in Hillsborough County.*
-![Grad_rates](Graduation rates in Hillsborough County categorized by race.PNG)
+![Grad_rate_races](Grad_Rate_Races.PNG)
 
 
 
