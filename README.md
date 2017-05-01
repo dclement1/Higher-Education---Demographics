@@ -1,7 +1,9 @@
 # Demographic Analysis of Higher Education Institutions in Florida and
-<small>Daniel Clement & jack Geier</small>
+#### By: Daniel Clement & jack Geier
 ---
+## Abstract
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This project will use data from the Integrated Postsecondary Education Data System (IPEDS), and cross reference it with a G.I.S. Data layer which contains US Census Bureau 2010 Census Block Groups for the State of Florida with selected fields from the 2009-2013 American Community Survey (ACS). With these data sets we intend to perform analysis to determine if there are any trends or correlations we can identify. Some possible questions we could look at are and graduation rates as well as tuition costs compared to various demographics.
 
 ## Data Transparency and Manipulations
 
