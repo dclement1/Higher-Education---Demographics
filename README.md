@@ -14,7 +14,7 @@ To begin working on the project, you need 'fork' this repository. This creates a
 
 ---
 
-[![Link to Image](docs/imgs/included/screenshot.jpg)](docs/imgs/included/git_fork.jpg)
+[![WHEDmain](WHEDmain.PNG)
 
 ---
 
