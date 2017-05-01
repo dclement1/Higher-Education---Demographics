@@ -44,7 +44,7 @@
 
 ## Results
 
-- *Below is a screenshot the page where we were able to customize the dataset we wanted to download.*
+- *Below is a map showing census blocks colored by the percentage of households living under the poverty line for the last 12 months.*
 ![Poverty_map_TB](Poverty_map_Tampa_Bay.jpg)
 
 
