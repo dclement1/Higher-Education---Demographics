@@ -1,15 +1,12 @@
-# Hacking History
-<small>For students of HIS4936 at the University of South Florida</small>
+# Demographic Analysis of Higher Education Institutions in Florida and
+<small>Daniel Clement & jack Geier</small>
 
-**REQUIREMENTS BEFORE STARTING**
-+ [GitHub account](https://github.com) created
-+ [GitHub Desktop](https://desktop.github.com) client installed
-+ [Atom](https://atom.io) editor installed
-+ [Python 3.x](https://www.python.org/) installed
 
-## Project Template
 
-This is
+## Data Transparency and Manipulations
+
+
+
 
 ## Getting a Copy
 
