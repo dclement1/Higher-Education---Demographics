@@ -66,7 +66,7 @@
 
 - *Below is a table depicting the graduation rates in Hillsborough County, catagorized by gender.*
 ![Grad_rate_gender](Grad_rate_gender.PNG)
-#### According to the data, men and women are very close in graduation rates, with men slightly under women by about 2%. Historically
+#### According to the data, men and women are very close in graduation rates, with men slightly under women by about 2%. Historically, women have been underprivileged in society at large, but particularlly in higher education their acomplishments have been trivialized. This could plausably be signs that things are changing for the better, with more women graduating than men.  
 
 - *Below is a table depicting the average graduation rate by county.*
 ![average_graduation_rate_by_county](average_graduation_rate_by_county.PNG)
