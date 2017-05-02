@@ -45,7 +45,16 @@
 <br />
 
 
-# Historiography
+# Historical Scholarship
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Throughout the ages, access to knowledge has created an influx of prosperity, power and cultural advancement. In a time known as the middle ages, Europe lost the academic works of the classical period after the fall of Rome and was behind compared to other nations of the world such as the Islamic world, who excelled in mathematics, sciences and medicine. In the modern day, the access of knowledge plays a huge role and it’s effects can be just as easily observable as the comparison between Europe and the Middle East during the Middle ages.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In our project we decided to look at the differences in demographics of Florida and compare it with information obtained from IPEDS (Integrated Postsecondary Education Data System). IPEDS is a very good data system that contains data ranging from graduation patterns to financial costs and scholarship information. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Florida school system was desegregated in 1970. Schools however, were still not on equal levels. In *The crossroads of U.S. demographics and higher education: a tale of disparate futures*, it makes the claim that Hispanics, Blacks, and Native Americans are experiencing the “worst of times”. The article goes into explaining that it is possible to analyze the faculty of universities and determine the academic success of the ethnicity. This analysis is accurate however, it only deals with the faculty and not dealing with things such as graduation and attendance rates. When looking back in History at post-secondary trends, it is interesting to look at how the increase in teaching faculty can correlate to the highest degree offered. In New York state during in 1953, nearly one third of students who entered postsecondary education obtained a degree less than a four-year degree (The Journal of Educational Sociology). During the 1960’s and 1970’s it was New York’s goal to increase the number of teaching faculty and it reached 22,000 in 1970. This initiative set the ground stone of providing the option for even higher education (The Journal of Educational Sociology).
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Previous historical analysis on Post-secondary system has been hard to find and I have not found anything dealing with Hillsborough county specifically. Our contribution will hopefully allow someone else to make a more informed decision from our work.  
+
 
 <br />
 
@@ -79,7 +88,7 @@
 
 - *Below is a table depicting the average graduation rate by county.*
 ![average_graduation_rate_by_county](average_graduation_rate_by_county.PNG)
-### 
+#### This information can be helpful when deciding on which College or University to attend. A look at the graph tells us the Alachua county and Sarasota county have the highest graduation rates. A simple google search can then tell you which Colleges and Universities can be found in these counties.  
 
 <br />
 <hr>
@@ -93,6 +102,8 @@
 
 # Conclusion
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The IPEDS website states that any institution that participate in or are applicants for participation in any federal student financial aid program, is required to participate in their survey. One observation which can be made about the data set we obtained from the IPEDS site is that many institutions report basic information, however their participation fully in the survey is not happening. Incomplete data in many of the variables we analyzed lead to an incomplete picture and left holes in the research. In theory, the incomplete nature of many institutions data, could change the outcomes and interpretations of any analysis based on the data set. Compliance with the mandate to participate in this survey may need to be enforced better, as this important resource for educators, potential students, and researchers in general. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The need for complete and reliable data sets are extremely important. Big data sets like this usually contain interesting attributes, but can also be left un complete in some areas. This often creates skewed graphics that appeal to people who tend to only look at the picture and not the data behind it. Transparency is the key. This project has brought to light the concept that statistics and graphs can be skewed, while also being accurate at the same time. 
 
 <br />
 
