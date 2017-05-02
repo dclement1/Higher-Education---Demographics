@@ -95,3 +95,23 @@
 #### - A bit on the Digital Humanities Research process
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Web scraping certainly has a huge upside when applied correctly. However, there is still wisdom and merit in one taking the time to do a more extensive internet search for your data sources. Use web scraping as one of the tools in your metaphorical toolbox, and do not go to it right away. With a simple few minutes spent doing a search for potential data sources, you can save much hassle from attempting a scrape. However, there is also much to be said for web scraping's potential to make accessible data sets which were once out of reach. Often, it is simply unrealistic to attempt collecting the data through tedious copy and pasting, and this is where web scraping will shine, proving its worth as one more tool in the digital humanist's toolbox.
 
+<br />
+<br />
+
+### Works Cited
+
+WHED. (n.d.). Retrieved April 30, 2017, from http://www.whed.net/home.php
+
+IPEDS. (n.d.). Retrieved April 30, 2017, from https://nces.ed.gov/ipeds/
+
+FGDL. (n.d.). Retrieved April 30, 2017, from [http://www.fgdl.org/metadataexplorer/explorer.jsp) 
+
+
+
+# Applications used:
+1. Tableau -                   [https://www.tableau.com/) 
+2. Web Scraper -               [https://github.com/martinsbalodis/web-scraper-chrome-extension)
+3. ESRI's ArcGIS -             [http://www.esri.com/arcgis/about-arcgis](http://www.esri.com/arcgis/about-arcgis)
+4. GitHub -                    [https://github.com/](https://github.com/)
+
+
