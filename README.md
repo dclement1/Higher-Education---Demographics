@@ -2,14 +2,13 @@
 #### By: Daniel Clement & jack Geier
 
 <br />
-<hr>
 
 ## Abstract
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This project will use data from the Integrated Postsecondary Education Data System (IPEDS), and cross reference it with a G.I.S. Data layer which contains US Census Bureau 2010 Census Block Groups for the State of Florida with selected fields from the 2009-2013 American Community Survey (ACS). With these data sets we intend to perform analysis to determine if there are any trends or correlations we can identify. Some possible questions we could look at are and graduation rates as well as tuition costs compared to various demographics.
 
 ## Data Transparency and Manipulations
-<hr>
+
 
 #### **Web Scraping attempt**
 
@@ -44,12 +43,12 @@
 ![IPEDSdataCustomization](IPEDSdataCustomization.PNG)
 
 <br />
-<hr>
+
 
 # Historiography
 
 <br />
-<hr>
+
 
 # Results
 
@@ -97,10 +96,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Web scraping certainly has a huge upside when applied correctly. However, there is still wisdom and merit in one taking the time to do a more extensive internet search for your data sources. Use web scraping as one of the tools in your metaphorical toolbox, and do not go to it right away. With a simple few minutes spent doing a search for potential data sources, you can save much hassle from attempting a scrape. However, there is also much to be said for web scraping's potential to make accessible data sets which were once out of reach. Often, it is simply unrealistic to attempt collecting the data through tedious copy and pasting, and this is where web scraping will shine, proving its worth as one more tool in the digital humanist's toolbox.
 
 <br />
-<hr>
+
 
 # Works Cited
-<hr>
+<br />
 
 WHED. (n.d.). Retrieved April 30, 2017, from http://www.whed.net/home.php
 
@@ -111,7 +110,8 @@ FGDL. (n.d.). Retrieved April 30, 2017, from http://www.fgdl.org/metadataexplore
 
 
 # Applications used:
-<hr>
+<br />
+
 1. Tableau -                   [https://www.tableau.com/](https://www.tableau.com/) 
 2. Web Scraper -               [https://github.com/martinsbalodis/web-scraper-chrome-extension](https://github.com/martinsbalodis/web-scraper-chrome-extension)
 3. ESRI's ArcGIS -             [http://www.esri.com/arcgis/about-arcgis](http://www.esri.com/arcgis/about-arcgis)
