@@ -2,13 +2,14 @@
 #### By: Daniel Clement & jack Geier
 
 <br />
-<br />
+<hr>
 
 ## Abstract
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This project will use data from the Integrated Postsecondary Education Data System (IPEDS), and cross reference it with a G.I.S. Data layer which contains US Census Bureau 2010 Census Block Groups for the State of Florida with selected fields from the 2009-2013 American Community Survey (ACS). With these data sets we intend to perform analysis to determine if there are any trends or correlations we can identify. Some possible questions we could look at are and graduation rates as well as tuition costs compared to various demographics.
 
 ## Data Transparency and Manipulations
+<hr>
 
 #### **Web Scraping attempt**
 
@@ -43,14 +44,14 @@
 ![IPEDSdataCustomization](IPEDSdataCustomization.PNG)
 
 <br />
-<br />
+<hr>
 
-## Historiography
+# Historiography
 
 <br />
-<br />
+<hr>
 
-## Results
+# Results
 
 - *Below is a map showing census blocks colored by the percentage of households living under the poverty line for the last 12 months.*
 ![Poverty_map_TB](Poverty_map_Tampa_Bay.jpg)
@@ -88,7 +89,7 @@
 <br />
 <br />
 
-### Conclusion
+# Conclusion
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The IPEDS website states that any institution that participate in or are applicants for participation in any federal student financial aid program, is required to participate in their survey. One observation which can be made about the data set we obtained from the IPEDS site is that many institutions report basic information, however their participation fully in the survey is not happening. Incomplete data in many of the variables we analyzed lead to an incomplete picture and left holes in the research. In theory, the incomplete nature of many institutions data, could change the outcomes and interpretations of any analysis based on the data set. Compliance with the mandate to participate in this survey may need to be enforced better, as this important resource for educators, potential students, and researchers in general. 
 <br />
 
@@ -96,9 +97,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Web scraping certainly has a huge upside when applied correctly. However, there is still wisdom and merit in one taking the time to do a more extensive internet search for your data sources. Use web scraping as one of the tools in your metaphorical toolbox, and do not go to it right away. With a simple few minutes spent doing a search for potential data sources, you can save much hassle from attempting a scrape. However, there is also much to be said for web scraping's potential to make accessible data sets which were once out of reach. Often, it is simply unrealistic to attempt collecting the data through tedious copy and pasting, and this is where web scraping will shine, proving its worth as one more tool in the digital humanist's toolbox.
 
 <br />
-<br />
+<hr>
 
-### Works Cited
+# Works Cited
+<hr>
 
 WHED. (n.d.). Retrieved April 30, 2017, from http://www.whed.net/home.php
 
@@ -109,6 +111,7 @@ FGDL. (n.d.). Retrieved April 30, 2017, from http://www.fgdl.org/metadataexplore
 
 
 # Applications used:
+<hr>
 1. Tableau -                   [https://www.tableau.com/](https://www.tableau.com/) 
 2. Web Scraper -               [https://github.com/martinsbalodis/web-scraper-chrome-extension](https://github.com/martinsbalodis/web-scraper-chrome-extension)
 3. ESRI's ArcGIS -             [http://www.esri.com/arcgis/about-arcgis](http://www.esri.com/arcgis/about-arcgis)
