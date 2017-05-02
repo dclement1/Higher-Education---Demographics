@@ -100,11 +100,11 @@
 
 # Works Cited
 
-1. WHED. (n.d.). Retrieved April 30, 2017, from http://www.whed.net/home.php
+1. WHED. (n.d.). Retrieved April 30, 2017, from [http://www.whed.net/home.php](https://nces.ed.gov/ipeds/)
 
-2. IPEDS. (n.d.). Retrieved April 30, 2017, from https://nces.ed.gov/ipeds/
+2. IPEDS. (n.d.). Retrieved April 30, 2017, from [https://nces.ed.gov/ipeds/](https://nces.ed.gov/ipeds/)
 
-3. FGDL. (n.d.). Retrieved April 30, 2017, from http://www.fgdl.org/metadataexplorer/explorer.jsp 
+3. FGDL. (n.d.). Retrieved April 30, 2017, from [http://www.fgdl.org/metadataexplorer/explorer.jsp](http://www.fgdl.org/metadataexplorer/explorer.jsp) 
 
 
 
