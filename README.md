@@ -125,6 +125,7 @@
 2. Web Scraper -               [https://github.com/martinsbalodis/web-scraper-chrome-extension](https://github.com/martinsbalodis/web-scraper-chrome-extension)
 3. GitHub -                    [https://github.com/](https://github.com/)
 
+<hr/>
 
 ### Project By:
 #### Jack Geier & Daniel Clement
