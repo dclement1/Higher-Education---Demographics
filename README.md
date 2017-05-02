@@ -78,6 +78,6 @@
 
 
 
-Some schools have no data, problem with reporting system.
+The IPEDS website states that any institution that participate in or are applicants for participation in any federal student financial aid program, is required to participate in their survey. One observation which can be made about the dataset we obtained from the IPEDS site  
 
 
