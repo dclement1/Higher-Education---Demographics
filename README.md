@@ -57,7 +57,12 @@
 ![Grad_rate_gender](Grad_rate_gender.PNG)
 
 - *Below is a table depicting the average graduation rate by county.*
-![Grad_rate_county](avg_grad_county.PNG)
+![average_graduation_rate_by_county](average_graduation_rate_by_county.PNG)
+
+- *Below is a table depicting the average graduation rate by county.*
+![average_salary](average_salary_of_teaching_staff.PNG)
+
+
 
 
 
