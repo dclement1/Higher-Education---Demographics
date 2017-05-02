@@ -5,7 +5,7 @@
 
 # Abstract
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This project will use data from the Integrated Postsecondary Education Data System (IPEDS), and cross reference it with a G.I.S. Data layer which contains US Census Bureau 2010 Census Block Groups for the State of Florida with selected fields from the 2009-2013 American Community Survey (ACS). With these data sets we intend to perform analysis to determine if there are any trends or correlations we can identify. Some possible questions we could look at are and graduation rates as well as tuition costs compared to various demographics.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This project will use data from the Integrated Postsecondary Education Data System (IPEDS). With this data set we intend to perform analysis to determine if there are any trends or correlations become evident. Some possible questions we could look at are and graduation rates as well as teacher salaries, compared to various demographics.
 
 # Data Transparency and Manipulations
 
@@ -38,7 +38,6 @@
 - *Below is a screenshot the Data Portal page of the IPEDS website.*
 ![IPEDSdataPage](IPEDSdataPage.PNG)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The dataset which we will use to compare the educational institution data to is a dataset which was obtained from the Florida Geographic Data Library website. This website is a data portal run by the State of Florida which contains a myriad of different geographic information systems datasets. The dataset used by us was delivered in the Shapefile format, which is a G.I.S. format, that contains both the underlying data, which is geocoded to, in this case, political boundaries.  The dataset, entitled Cenacs_2013, is comprised of the census block tracts that comprise Florida. Attached to each of these census block tracts are selected fields from the 2013 American Community Survey. Demographic information such as age, sex, race, and economic trends is contained within each block. We will be comparing this information with the IPEDS data using digital humanities techniques and processes, to identify any trends which may appear.
 - *Below is a screenshot the page where we were able to customize the dataset we wanted to download.*
 ![IPEDSdataCustomization](IPEDSdataCustomization.PNG)
 
@@ -60,9 +59,6 @@
 
 
 # Results
-
-- *Below is a map showing census blocks colored by the percentage of households living under the poverty line for the last 12 months.*
-![Poverty_map_TB](Poverty_map_Tampa_Bay.jpg)
 
 - *Below is a table depicting the highest degrees offered by institutions in Hillsborough County.*
 ![Highest_deg](Hillsborough_Highest_Deg.PNG)
@@ -116,9 +112,7 @@
 # Works Cited
 
 1. WHED. (n.d.). Retrieved April 30, 2017, from [http://www.whed.net/home.php](https://nces.ed.gov/ipeds/)
-
 2. IPEDS. (n.d.). Retrieved April 30, 2017, from [https://nces.ed.gov/ipeds/](https://nces.ed.gov/ipeds/)
-
 3. FGDL. (n.d.). Retrieved April 30, 2017, from [http://www.fgdl.org/metadataexplorer/explorer.jsp](http://www.fgdl.org/metadataexplorer/explorer.jsp) 
 
 <br />
@@ -127,7 +121,6 @@
 
 1. Tableau -                   [https://www.tableau.com/](https://www.tableau.com/) 
 2. Web Scraper -               [https://github.com/martinsbalodis/web-scraper-chrome-extension](https://github.com/martinsbalodis/web-scraper-chrome-extension)
-3. ESRI's ArcGIS -             [http://www.esri.com/arcgis/about-arcgis](http://www.esri.com/arcgis/about-arcgis)
 4. GitHub -                    [https://github.com/](https://github.com/)
 
 
