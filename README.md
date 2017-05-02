@@ -1,4 +1,4 @@
-# Demographic Analysis of Higher Education Institutions in Florida and
+# Demographic Analysis of Higher Education Institutions in Florida
 #### By: Daniel Clement & jack Geier
 
 <br />
