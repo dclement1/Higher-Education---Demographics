@@ -61,24 +61,23 @@
 #### As is evident by the graph, there are a wide variety of degrees offered by institions. As a result, this makes it more convenient and accessible for everyone to attain a higher education degree of some form. However, this does not mean that attaining the degree will be any easier, just that there is more of an opportunity presented. 
 
 <br />
-<br />
 
 - *Below is a table depicting the graduation rates for various institutions in Hillsborough County, catagorized by race.*
 ![Grad_rate_races](Grad_Rate_Races.PNG)
 #### Within the various schools the graduation rates are fairly similar between the races. However, One outlier is evident at ITT Technical Institute. At this school, students who identify as Asian, have a 100% graduation rate. This could be happening for a few reasons. One, obviously is that the Asian students at this school have great aptitude for technical degrees. The other possibility is that there were a small number of Asian students, and they all happened to graduate. 
 
 <br />
-<br />
 
 - *Below is a table depicting the graduation rates in Hillsborough County, catagorized by gender.*
 ![Grad_rate_gender](Grad_rate_gender.PNG)
 #### According to the data, men and women are very close in graduation rates, with men slightly under women by about 2%. Historically, women have been underprivileged in society at large, but particularlly in higher education their acomplishments have been trivialized. This could plausably be signs that things are changing for the better, with more women graduating than men.  
 
+<br />
+
 - *Below is a table depicting the average graduation rate by county.*
 ![average_graduation_rate_by_county](average_graduation_rate_by_county.PNG)
 ### 
 
-<br />
 <br />
 
 - *Below is a graph depicting the average salaries of teaching staff by institutions within Hillsborough County .*
@@ -96,7 +95,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Web scraping certainly has a huge upside when applied correctly. However, there is still wisdom and merit in one taking the time to do a more extensive internet search for your data sources. Use web scraping as one of the tools in your metaphorical toolbox, and do not go to it right away. With a simple few minutes spent doing a search for potential data sources, you can save much hassle from attempting a scrape. However, there is also much to be said for web scraping's potential to make accessible data sets which were once out of reach. Often, it is simply unrealistic to attempt collecting the data through tedious copy and pasting, and this is where web scraping will shine, proving its worth as one more tool in the digital humanist's toolbox.
 
 <br />
-
+<br />
 
 # Works Cited
 
