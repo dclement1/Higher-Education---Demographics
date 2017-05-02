@@ -70,7 +70,7 @@
 
 - *Below is a table depicting the graduation rates for various institutions in Hillsborough County, catagorized by race.*
 ![Grad_rate_races](Grad_Rate_Races.PNG)
-#### Within the various schools the graduation rates are fairly similar between the races. However, One outlier is evident at ITT Technical Institute. At this school, students who identify as Asian, have a 100% graduation rate. This could be happening for a few reasons. One, obviously is that the Asian students at this school have great aptitude for technical degrees. The other possibility is that there were a small number of Asian students, and they all happened to graduate. 
+#### Within the various schools the graduation rates are fairly similar between the races. However, One outlier is evident at ITT Technical Institute. At this school, students who identify as Asian, have a 100% graduation rate. This could be happening for a few reasons. One, obviously is that the Asian students at this particular school, all have a great aptitude for technical degrees. Another possibility is that there were a small number of Asian students, and they all coincidentally happened to graduate. Finally, suspect that this number is being skewed in some fashion.
 
 <br />
 <hr>
@@ -121,6 +121,6 @@
 
 1. Tableau -                   [https://www.tableau.com/](https://www.tableau.com/) 
 2. Web Scraper -               [https://github.com/martinsbalodis/web-scraper-chrome-extension](https://github.com/martinsbalodis/web-scraper-chrome-extension)
-4. GitHub -                    [https://github.com/](https://github.com/)
+3. GitHub -                    [https://github.com/](https://github.com/)
 
 
