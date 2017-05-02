@@ -104,7 +104,7 @@ WHED. (n.d.). Retrieved April 30, 2017, from http://www.whed.net/home.php
 
 IPEDS. (n.d.). Retrieved April 30, 2017, from https://nces.ed.gov/ipeds/
 
-FGDL. (n.d.). Retrieved April 30, 2017, from [http://www.fgdl.org/metadataexplorer/explorer.jsp) 
+FGDL. (n.d.). Retrieved April 30, 2017, from http://www.fgdl.org/metadataexplorer/explorer.jsp 
 
 
 
