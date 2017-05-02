@@ -109,8 +109,8 @@ FGDL. (n.d.). Retrieved April 30, 2017, from [http://www.fgdl.org/metadataexplor
 
 
 # Applications used:
-1. Tableau -                   [https://www.tableau.com/) 
-2. Web Scraper -               [https://github.com/martinsbalodis/web-scraper-chrome-extension)
+1. Tableau -                   [https://www.tableau.com/](https://www.tableau.com/) 
+2. Web Scraper -               [https://github.com/martinsbalodis/web-scraper-chrome-extension](https://github.com/martinsbalodis/web-scraper-chrome-extension)
 3. ESRI's ArcGIS -             [http://www.esri.com/arcgis/about-arcgis](http://www.esri.com/arcgis/about-arcgis)
 4. GitHub -                    [https://github.com/](https://github.com/)
 
