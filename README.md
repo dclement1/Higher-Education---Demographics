@@ -53,10 +53,12 @@
 #### As is evident by the graph, there are a wide variety of degrees offered by institions. As a result, this makes it more convenient and accessible for everyone to attain a higher education degree of some form. However, this does not mean that attaining the degree will be any easier, just that there is more of an opportunity presented. 
 
 <br />
----
+<br />
+
 
 - *Below is a table depicting the graduation rates for various institutions in Hillsborough County, catagorized by race.*
 ![Grad_rate_races](Grad_Rate_Races.PNG)
+#### Within the various schools the graduation rates are fairly similar between the races. However, One outlier is evident at ITT Technical Institute. At this school, students who identify as Asian, have a 100% graduation rate. This could be happening for a few reasons. One, obviously is that the Asian students at this school have great aptitude for technical degrees. The other possibility is that there were a small number of Asian students, and they all happened to graduate. 
 
 
 - *Below is a table depicting the graduation rates in Hillsborough County, catagorized by gender.*
@@ -70,8 +72,6 @@
 
 
 
-
-
-
+Some schools have no data, problem with reporting system.
 
 
