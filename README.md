@@ -70,9 +70,11 @@
 
 - *Below is a table depicting the average graduation rate by county.*
 ![average_graduation_rate_by_county](average_graduation_rate_by_county.PNG)
+#### 
 
-- *Below is a table depicting the average graduation rate by county.*
+- *Below is a graph depicting the average salaries of teaching staff by institutions within Hillsborough County .*
 ![average_salary](average_salary_of_teaching_staff.PNG)
+#### This graph shows that The University of South Florida has the highest average salary. This can plausably be correlated to the fact that USF offers the highest degree level possible. Similarly, Ultimate Medical Academy, which only offers an Associates Degree, has the lowest average salary. 
 
 
 
