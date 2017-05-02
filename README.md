@@ -110,7 +110,7 @@
 <br />
 
 ### Acknowledgement
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Professor Dave Thomas, who challenged us, and taught us that failing is the first step to succeeding. As well that in failure, we can often lean valuable lessons, so that others do not have to waste precious time investigating dead ends. He provided us with invaluable advice and guidance during our struggles with web scrapping. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Professor Dave Thomas, who challenged us, and taught us that failing is often the first step to succeeding. As well, that in failure we can often learn valuable lessons, so that others do not have to waste precious time investigating dead ends. He provided us with invaluable advice and guidance during our struggles with web scrapping. 
 
 <br />
 
