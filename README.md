@@ -57,7 +57,7 @@
 ![Grad_rate_gender](Grad_rate_gender.PNG)
 
 - *Below is a table depicting the average graduation rate by county.*
-![Grad_rate_county](avg_grad_county.PN)
+![Grad_rate_county](avg_grad_county.PNG)
 
 
 
