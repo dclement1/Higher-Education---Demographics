@@ -1,6 +1,9 @@
 # Demographic Analysis of Higher Education Institutions in Florida and
 #### By: Daniel Clement & jack Geier
----
+
+<br />
+<br />
+
 ## Abstract
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This project will use data from the Integrated Postsecondary Education Data System (IPEDS), and cross reference it with a G.I.S. Data layer which contains US Census Bureau 2010 Census Block Groups for the State of Florida with selected fields from the 2009-2013 American Community Survey (ACS). With these data sets we intend to perform analysis to determine if there are any trends or correlations we can identify. Some possible questions we could look at are and graduation rates as well as tuition costs compared to various demographics.
@@ -39,8 +42,13 @@
 - *Below is a screenshot the page where we were able to customize the dataset we wanted to download.*
 ![IPEDSdataCustomization](IPEDSdataCustomization.PNG)
 
+<br />
+<br />
+
 ## Historiography
 
+<br />
+<br />
 
 ## Results
 
@@ -55,14 +63,12 @@
 <br />
 <br />
 
-
 - *Below is a table depicting the graduation rates for various institutions in Hillsborough County, catagorized by race.*
 ![Grad_rate_races](Grad_Rate_Races.PNG)
 #### Within the various schools the graduation rates are fairly similar between the races. However, One outlier is evident at ITT Technical Institute. At this school, students who identify as Asian, have a 100% graduation rate. This could be happening for a few reasons. One, obviously is that the Asian students at this school have great aptitude for technical degrees. The other possibility is that there were a small number of Asian students, and they all happened to graduate. 
 
 <br />
 <br />
-
 
 - *Below is a table depicting the graduation rates in Hillsborough County, catagorized by gender.*
 ![Grad_rate_gender](Grad_rate_gender.PNG)
@@ -72,15 +78,20 @@
 ![average_graduation_rate_by_county](average_graduation_rate_by_county.PNG)
 #### 
 
+<br />
+<br />
+
 - *Below is a graph depicting the average salaries of teaching staff by institutions within Hillsborough County .*
 ![average_salary](average_salary_of_teaching_staff.PNG)
 #### This graph shows that The University of South Florida has the highest average salary. This can plausably be correlated to the fact that USF offers the highest degree level possible. Similarly, Ultimate Medical Academy, which only offers an Associates Degree, has the lowest average salary. 
 
+<br />
+<br />
 
 ### Conclusion
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The IPEDS website states that any institution that participate in or are applicants for participation in any federal student financial aid program, is required to participate in their survey. One observation which can be made about the data set we obtained from the IPEDS site is that many institutions report basic information, however their participation fully in the survey is not happening. Incomplete data in many of the variables we analyzed lead to an incomplete picture and left holes in the research. In theory, the incomplete nature of many institutions data, could change the outcomes and interpretations of any analysis based on the data set. Compliance with the mandate to participate in this survey may need to be enforced better, as this important resource for educators, potential students, and researchers in general. 
 <br />
 
-#### A bit on the Digital Humanities Research Project process
+#### - A bit on the Digital Humanities Research Project process
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Web scraping certainly has a huge upside when applied correctly. However, there is still wisdom and merit in one taking the time to do a more extensive internet search for your data sources. Use web scraping as one of the tools in your metaphorical toolbox, and do not go to it right away. With a simple few minutes spent doing a search for potential data sources, you can save much hassle from attempting a scrape. However, there is also much to be said for web scraping's potential to make accessible data sets which were once out of reach. Often, it is simply unrealistic to attempt collecting the data through tedious copy and pasting, and this is where web scraping will shine, proving its worth as one more tool in the digital humanist's toolbox.
 
