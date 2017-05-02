@@ -126,3 +126,6 @@
 3. GitHub -                    [https://github.com/](https://github.com/)
 
 
+### Project By:
+#### Jack Geier & Daniel Clement
+
